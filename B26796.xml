@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cure for the dogmatical incurables, performed in matter of fact by N. Merry philo-chym. All subjects have their excrements in them, and excrements will make but bad medicines. First cure the subjects of their diseases, and thou shalt happily cure the patients of their sicknesses. All true medicine is the incorruptible and undigestible part latent in their subjects. Whence it follows that excrements and foods are no physick, or very improper medicines; hence a necessity of seperation.</title>
+            <author>Merry, Nathaniel.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26796</idno><idno type="EEBO-CITATION">99889024</idno>
+  <idno type="VID">196149</idno>
+  <idno type="EEBO-PROQUEST">2240902055</idno>
+  
+            <idno type="STC">Wing M1848</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[158]</idno>
+            <idno type="STC">ESTC R232667</idno>
+            <idno type="PROQUEST">ocm99889024</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889024e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196149)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[157])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cure for the dogmatical incurables, performed in matter of fact by N. Merry philo-chym. All subjects have their excrements in them, and excrements will make but bad medicines. First cure the subjects of their diseases, and thou shalt happily cure the patients of their sicknesses. All true medicine is the incorruptible and undigestible part latent in their subjects. Whence it follows that excrements and foods are no physick, or very improper medicines; hence a necessity of seperation.</title>
+                  <author>Merry, Nathaniel.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. James at the printing-press in Mincing lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  Early works to 1800.</term>
+               <term type="topical_term">Sexually transmitted diseases --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb n="1" facs="tcp:196149:1"/>
+            <head>
+               <hi>Cure for the Dogmatical Incurables, performed in Matter of Fact by</hi> N. Merry Philo-Chym.</head>
+            <p>All Subjects have their Excrements in them, and Excrements will make but bad Medicines. First cure the Subjects of their Diseases, and thou shalt happily cure thy Patients of their Sicknesses. All true Medicine is the incorruptible and undigestible part latent in their Subjects. VVhence it follows that Excrements and Foods are no Physick, or very improper Medicines; hence a necessity of Seperation.</p>
+            <p>AT the <hi>Star</hi> in <hi>Bow-lane,</hi> next door but one to the <hi>Half-moon-Court, Nath Merry,</hi> Student in Vital Physick, hath Dwelt about Eight years, who is well known to have performed many wonderful Cures in and about this City, not only in these Distempers following, but many more, which here is not room to insert; and doth frequently and constantly do the same: As Consumpti<g ref="char:EOLhyphen"/>ons, Scurvey, Dropsie, Dolorous Pains in the Stomach and Bowels, and all Obstructions therein; Surfeits, Feavors, Agues, Coughs, Colds, Catarrhs, Astma's, that is when the Lungs be stufft, that a Man draws his Breath with difficulty and wheasing, the Green Sickness, wanting or abounding of the Terms in Child-bed or other ways; Sore Eyes, Sore Mouth, or the Scurvey in the Gums, Griping of the Guts, Hypocondriack Melan<g ref="char:EOLhyphen"/>cholly, the Stone, or Gravel in the Reins or Bladder, the Gout, Sciatica, the Whites, Obstructions of the Liver and Spleen, the Jaundice, Fits of the Mother, Timpany, Kings Evil, French Disease, <hi>&amp;c.</hi> Leprosie, Palsie, Madness, Pthisick, Melancholly, Megrim, Head-ach, Deafness, Tooth<g ref="char:EOLhyphen"/>ach, Cancers, Fistula's, Ulcers in the Womb or Bladder; many Occult Diseases, which no Physician can give a name to: I have cured such whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they have been given over as incurable, by removing the primary cause or seeds of Diseases, by relieving Nature in its Center by Vital Rays, restoring lost Strength, and cheering the Vital Spirits, destroying all lurking Venoms or Poysons in the Body, by Archeal or Vital Medicines, Homogeneal to Nature, and capable of uniting with the Universal Na<g ref="char:EOLhyphen"/>tural Life, which is one in all things; and by no less than such Superior Commanding Medicines could many of the Cures that I have done a<g ref="char:EOLhyphen"/>bout this Town be performed, some given over by Four or Five Doctors. Shortness of Breath, Faintness, Heart-burnings: All Pains in the Back and Limbs, though Venoms be settled there, Numbness of the Side. <hi>&amp;c.</hi> Swellings, Imposthumes, Inward or Outward, in the Stomach or Head, <hi>&amp;c.</hi> Epilepsie, Bloody Urine, Spitting of Blood, voiding Blood, Stoppage of Urine, general Pains, general Weakness, Pains in the Hemorroids, Spotted Feavors, Scarlet Feavors, <hi>Contractio Nevorum,</hi> which I have cur'd when the Body hath been drawn double and fixt so; and the
+<pb n="2" facs="tcp:196149:2"/> Neck and Face drawn and fixt looking over one shoulder. I cure Swellings, Fistula's, Ulcers and Sores (old or new) proceeding from an inward cause, with inward means only (removing the primary cause) which will never subject to outward means; nor is the Fountain destroyed by any thing but Fermental Medicines, which are indued with a wonderful gift capable of wiping away the Original Evil Source, by which means I have saved many Hands, Arms, Legs, Fingers, and Toes, from cutting off when they have been ready and ordered for Amputati<g ref="char:EOLhyphen"/>on, by the Vulgar way, and other ways pitifully cut, slash'd and mangled to the inraging and inflaming of Nature; many have had Venemous or Virulent Reliques of Malignant Feavors, Agues, Small Pox, Measles, <hi>&amp;c.</hi> fallen into their Thighs, Legs Feet, Shoulders, Arms, Hands, <hi>&amp;c.</hi> for want of Fermental Medicines, capable to subdue and destroy these Pri<g ref="char:EOLhyphen"/>mary Evils in their Sickness: I have cured them in a little time (both after and before) they have been sent by others into the Countrey Air for a Cure, which generally fails. These and many more Diseases, both Acute and Chronical, by Gods Blessing, I have and do constantly Cure, as is well known by many hundreds; for they have not been done in a Corner, but have been evidenc'd publiquely in my Paper of Cures, Entituled, <hi>Evident Satisfaction to the Sick,</hi> &amp;c. and other Writings, and can be infallibly proved by a multitude of Witnesses, now living in this City, to any that are yet ignorant thereof: which Cures have been wrought by Medicines truly adapted, and naturally gifted with a Capacity to expel and correct Venoms, and close with Nature centrally, by rays and beams of Light upon the Spirit of Life, which corrects the Disorder of the <hi>Archens,</hi> and re-unites its powers, correcting, healing, and restoring every Vital Faculty, to its due and natural Motions and Actions. All ho<g ref="char:EOLhyphen"/>nest Chyrurgeons, A pothecaries and Doctors, that are not furuished with such Medicines, and make Conscience of the Lives and Limbs of their Patients, may have them of me at reasonable rates; for the sluggish ob<g ref="char:EOLhyphen"/>solete Medicines prescrib'd (I cannot say adapted) by the Ancients, with out any previous seperation of the Pure from the Impure, for more simple or single Distempers, hath done little or no good these many years. <hi>(Paracelsus</hi> saith they help not in the least.) And how rarely any Disease is found without its variety of Complications, which require Medicines of a superior Order to command them, such as are divested of their dark Vails of Virulency and Crudities, and suitably Adapted (to the present Malignities and Obscurities, Clouding the Light of Life) by their true Actives and Passives, and their proper Menstruums and Mediums. I call God to witness I am Master of such Medicines, prepared by my own hands, as the Cures that I have performed do prove, and is known to many, and may be known to all that are wil<g ref="char:EOLhyphen"/>ling to be informed; which Medicines any that need, may have them of me, at Reasonable Rates.</p>
+            <p>
+               <hi>My hours are from</hi> 8 <hi>in the Morning till</hi> 6 <hi>in the Evening.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> T. James <hi>at the</hi> Printing-press <hi>in</hi> Mincing lane. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
